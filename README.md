@@ -4,3 +4,4 @@
 1. Clonar desde un repositorio remoto
 
 2. Inicializar un proyecto (directorio local) 
+Autor: Jose armando huicho llanes
